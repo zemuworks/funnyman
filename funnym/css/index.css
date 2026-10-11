@@ -1,0 +1,33 @@
+img.rickroll-roll {
+    text-align: center;
+}
+h1 {
+    color: #f8f8f8;
+    font-weight: 800;
+    align-items: center;
+}
+header{
+    background-color: rgb(238, 131, 54);
+    align-items: center;
+    padding: 11px;
+    display: flex;
+    gap: 64px;
+}
+div.hi{
+    align-items: center;
+}
+p{
+    font-weight: 800;
+}
+p.pi{
+    font-size: 50x;
+}
+img.logotype {
+    border-radius: 25%;
+}
+div.photos  {
+    display: flex;
+align-items: centers;
+padding: 8px;
+gap: 10px;
+}
